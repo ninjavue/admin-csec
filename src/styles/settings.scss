@@ -1,0 +1,22 @@
+.setttings-head{
+    height: 200px;
+    background-image: url(../assets/images/profile-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    min-width: 100%;
+    position: relative;
+    & button{
+        position: absolute;
+        top: 24px;
+        right: 24px;
+    }
+    & div{
+        background: rgba(2, 22, 90, 0.8);
+        min-width: 100%;
+        min-height: 100%;
+    }
+}
+
+.settings-body{
+    transform: translateY(-80px);
+}

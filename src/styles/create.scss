@@ -1,0 +1,31 @@
+.create{
+    &-row{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    &-col-8{
+        width: 66%;
+    }
+    &-col-4{
+        width: 34%;
+    }
+    &-input{
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+   
+}
+
+.mb-4 .ql-toolbar.ql-snow {
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+.mb-4 .ql-container.ql-snow {
+    border: none;
+}
+
+.border-3{
+    border-width: 3px;
+}

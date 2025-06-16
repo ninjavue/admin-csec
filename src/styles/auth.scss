@@ -1,0 +1,16 @@
+.auth{
+    background: linear-gradient(-45deg, #405189 50%, #0ab39c);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &-with{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 40px;
+        height: 40px;
+        border-radius: 5px;
+    }
+}

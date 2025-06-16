@@ -1,0 +1,14 @@
+export { default as Login } from './auth/login';
+export { default as NotFound } from './not-found';
+export { default as Dashboard } from './dashboard';
+export { default as SiteMap } from './site-map';
+export { default as Charts } from './charts';
+export { default as Teams } from './team';
+export { default as Chat } from './chat';
+export { default as CreateProject } from './project/create';
+export { default as Order } from './order';
+export { default as Files } from './files';
+export { default as Calendar } from './calendar';
+export { default as Settings } from './profile/settings';
+export { default as Profile } from './profile';
+export { default as TimeLine } from './timeline';
